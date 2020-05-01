@@ -1,0 +1,4 @@
+This project is  kaggle's past contest. 
+In this code i have trained a neural network with out and with cnn. 
+The cnn architecture gave the best result . 
+The non-cnn network overfit the data while cnn network didnt overfit.
